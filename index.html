@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#e6f5f3" />
+  <meta name="description" content="戀愛 Casting：創造出屬於你的劇本。以綜藝節目《戀愛 Casting》為靈感的非官方小說創作集。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="戀愛 Casting：創造出屬於你的劇本" />
+  <meta property="og:description" content="每段心動，都能創造屬於自己的劇本。" />
+  <title>戀愛 Casting：創造出屬於你的劇本</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳至主要內容</a>
+  <header class="site-header">
+    <a class="brand" href="#/" aria-label="回到網站首頁"><span class="brand-dot">✳</span> SAKURAI_TK <span class="brand-divider">/</span> LOVE CASTING</a>
+    <nav aria-label="網站導覽"><a href="#/">首頁</a><a href="#stories">故事目錄</a><a href="#about">關於這裡</a></nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <div id="home-view">
+      <section class="hero" aria-labelledby="hero-title">
+        <!-- 影片請下載自 Pexels 並存成 assets/ocean-waves.mp4；缺少影片時使用原本的 CSS 海浪備援。 -->
+        <video id="hero-video" class="hero-video" muted loop playsinline preload="metadata" aria-hidden="true">
+          <source src="./assets/ocean-waves.mp4" type="video/mp4" />
+        </video>
+        <div class="hero-video-scrim" aria-hidden="true"></div>
+        <div class="sky-glow" aria-hidden="true"></div>
+        <div class="hero-content">
+          <p class="eyebrow light">A LOVE CASTING STORY COLLECTION <span class="sparkle">✦</span></p>
+          <h1 id="hero-title"><span class="title-main">戀愛 <em>Casting</em></span><span class="title-sub">創造出屬於你的劇本</span></h1>
+          <p class="hero-description">每一次心動，都可能改寫故事的結局。</p>
+          <a class="primary-cta" href="#stories">開始閱讀 <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="waves" aria-hidden="true"><div class="wave wave-back"></div><div class="wave wave-mid"></div><div class="wave wave-front"></div></div>
+        <div class="hero-footer"><span>THE OCEAN KNOWS EVERY STORY</span><span>SCROLL TO DISCOVER ↓</span></div>
+      </section>
+      <section class="intro-strip" aria-label="網站介紹"><span class="mini-star">✳</span><p>以《戀愛 Casting》為靈感，收藏那些在鏡頭之外、心跳之間，悄悄誕生的故事。</p><span class="mini-star">✳</span></section>
+      <section class="stories-section" id="stories" aria-labelledby="stories-title">
+        <div class="section-topline"><span>01 / STORY COLLECTION</span><span>YOUR SCRIPT BEGINS HERE</span></div>
+        <div class="section-title-row"><div><p class="eyebrow">THE STORIES</p><h2 id="stories-title">每一種心動，都值得書寫。</h2></div><p class="section-aside">挑一個故事，走進某一種可能。</p></div>
+        <div class="catalog-controls"><label class="search-label" for="story-search"><span aria-hidden="true">⌕</span><input id="story-search" type="search" placeholder="搜尋文章或劇本名稱" autocomplete="off" /></label><div class="filters" id="script-filters" aria-label="依原始劇本篩選"></div></div>
+        <div class="story-grid" id="story-grid" aria-live="polite"><p class="loading">正在讀取故事……</p></div>
+        <p id="story-count" class="count-note"></p>
+      </section>
+      <section class="about-section" id="about" aria-labelledby="about-title"><div class="about-mark" aria-hidden="true">✳</div><div><p class="eyebrow">02 / ABOUT THE PROJECT</p><h2 id="about-title">不是唯一的劇本，<br />卻是此刻的心動。</h2></div><div class="about-description"><p>這裡收錄以綜藝節目《戀愛 Casting》為靈感延伸的文字創作。故事由創作者重新想像，與原節目製作單位無關。</p><p>你可以按原始劇本瀏覽，也可以從任何一篇開始閱讀。尚未完成的故事，會先留下期待的位置。</p></div></section>
+    </div>
+    <div id="reader-view" hidden></div>
+  </main>
+  <footer class="site-footer"><span>© <span id="year">2026</span> SAKURAI_TK · FAN FICTION</span><span>戀愛 Casting：創造出屬於你的劇本</span><a href="#/">回到首頁 ↑</a></footer>
+  <div id="age-overlay" class="modal-backdrop" hidden><div class="age-modal" role="dialog" aria-modal="true" aria-labelledby="age-heading"><span class="age-mark">18+</span><h2 id="age-heading">閱讀分級提醒</h2><p>這篇文章包含成人向內容，僅供年滿 18 歲的讀者閱讀。請確認你已達法定年齡。</p><div class="modal-actions"><button id="age-decline" class="btn-outline">返回故事目錄</button><button id="age-accept" class="btn-solid">我已滿 18 歲，繼續閱讀</button></div><p class="age-small">此為讀者自行確認年齡的提醒，非身分驗證。</p></div></div>
+</body>
+</html>
