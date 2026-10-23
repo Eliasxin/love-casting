@@ -3,6 +3,7 @@ name: Sync Notion Chapters
 on:
   workflow_dispatch:
   schedule:
+    # 台灣時間每天上午 10:00
     - cron: '0 2 * * *'
 
 permissions:
@@ -36,7 +37,16 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/chapters.json assets/notion/
+
+          # 提交同步產生的章節資料
+          git add -A -- data/chapters.json
+
+          # 圖片資料夾存在時才提交
+          if [ -d assets/notion ]; then
+            git add -A -- assets/notion/
+          fi
+
+          # 只有檔案變更時才建立 Commit
           if ! git diff --cached --quiet; then
             git commit -m 'Sync public Love Casting chapters from Notion'
             git push
