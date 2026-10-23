@@ -1,5 +1,3686 @@
 {
   "site": "戀愛 Casting：創造出屬於你的劇本",
-  "updatedAt": null,
-  "chapters": []
+  "updatedAt": "2026-10-23T09:01:06.663040Z",
+  "chapters": [
+    {
+      "slug": "please_dont_stop_the_music",
+      "title": "Please Don’t Stop the Music",
+      "chapterNumber": 1,
+      "chapterType": "",
+      "originalScript": "Perfect Pitch",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "－",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為房東的一個失誤，導致正在榮民總醫院蘇澳分院實習的Y少年被迫和在葛瑪蘭酒廠當侍酒師的L先生開啟了奇異的同居生活。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "被通知的當下兩人對視了一眼，在彼此眼中都看到無奈，而在短時間也找不到另外一個居住地，於是兩人只好和房東表示兩人決定合租這間房子，至於房租怎麼算，還是學生的Y少年就全權交給已是社會人士的L先生來處理。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "送走房東後，兩人站在客廳你一句我一句的把生活空間劃分清楚，也把兩人的作息時間以及生活常規寫下來，避免影響彼此的生活。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "就這樣少年與男子的同居生活就此開始。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一日，Y少年因為幫學姊值了三天夜班，於是在還沒來得及訂晚上便當時，就被學姊塞了背包和衣服趕下班。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "可是什麼都還沒吃、飢腸轆轆的少年想起這時間點L先生應該是準備下班了，於是傳了個訊息詢問他晚餐要吃什麼要不要幫忙帶後，把手機丟在一邊就轉身踏進更衣室把衣服換掉和拿起背包準備離開醫院。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「不是下班了，怎麼沒已讀，平常都很快回訊息的？」，Y少年邊滑著手機邊疑惑的看著未讀的訊息，決定在回去路上外帶兩人晚餐。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "而Y少年以為才剛下班的L先生其實因為出了外勤就直接提早下班回家，而有潔癖的他一進家門就直奔浴室洗澡，還唱著不知名歌曲洗著澡，至於好不好聽，可以問問剛踏進家門被浴室傳來的歌聲給釘在原地的Y少年。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……該不會是因為在洗澡才沒看到我訊息……？」，Y少年邊把晚餐和背包放好，正準備回房間拿換洗衣服時被浴室的一面風光給吸引著了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "他們兩人租的這間房原本是房東拿來作為民宿用，所以浴室玻璃是全透明的，這設計讓兩人在一開始洗澡時十分排斥還特地約好彼此要洗澡的時間，不過時間拉回現在，因為兩人都沒有在預計時間回家和洗澡，導致現在Y少年不小心地看到L先生那副極品身材。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「靠……不是侍酒師嗎？身材怎麼好……可是歌聲，是在唱什麼？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Y少年邊看邊朝著浴室旁的沙發靠近，與此同時不知是不是L先生察覺到Y少年的視線而轉頭，這讓Y少年急忙趴在地上匐匍前進，假裝在打掃沙發底下的灰塵，直到體感時間L先生應該洗完澡回房間後，Y少年這才從地上爬起來。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這一爬不得了，Y少年一抬頭眼前的風光讓他瞬間吞了一大口口水，他萬萬沒想到L先生發現他剛剛的偷窺，而且還大剌剌地只圍了下半身就出來，還有一副自詡是阿波羅的姿勢躺在沙發上。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「Hello，我的歌聲怎麼樣啊？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "你還用一副我很帥的姿態問！Y少年滿肚子怨氣，但他卻被L先生那精壯的身材給吸引著，從他那豐厚結實的胸肌往下朝著六塊線條分明的腹肌看去。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「好……好看……」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「嗯？好看？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「好聽、好聽……」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "隨著話語，兩人的距離不斷靠近，近到Y少年都感受到L先生因剛洗完澡仍熾熱的體溫，讓他不禁吞了幾口口水。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "至於最後兩人的晚餐有沒有吃完，這就是後話。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "我們《奇蹟》導演吳孟糖導演的新節目 《戀愛 Casting》已經開播啦！",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "快來和我一起看八位大男孩在熾熱的夏天裡如何透過不同的劇本碰撞出精采的火花吧😍",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "讓我們一起用讓人心動的BL實境節目來迎接今年夏天吧☀️",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "p.s. 我目前還是首推 Pink，其他男孩們加油哇啊啊啊😘",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "i_see_u",
+      "title": "I See U",
+      "chapterNumber": 2,
+      "chapterType": "",
+      "originalScript": "相遇ING",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "－",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在T市有一座天橋，上面有一區十分的寬敞，深受喜愛表演的人們聚集在那表演著。而今天正好換U大熱舞社學生在那表演，主舞則是大三的Gary學長負責。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "第一次排練結束後，大家各自找地方休息或者練習剛剛有失誤的部分，而負責整個編舞的Gary學長乾脆趁著空檔來偷閒發個呆，就把視線放遠到處亂看順便觀察路上的行人，殊不知看來看去看到遠方有一抹熟悉的身影朝著天橋的方向走來。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Gary學長轉頭和學弟們說自己口渴順便買飲料給大家慰勞一下，連等待回應的時間都不給的就跑下去往附近的便利超商走去。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "說起來Gary學長和Chester每一次見面都會因為各種雞毛蒜皮的事情吵，像是你幹嘛走這邊！、你幹嘛跟我吃一樣的餐廳？等只要兩人一碰上就會有各種爭吵，至於為什麼會吵成這樣，兩人身邊的朋友都有問，但回答都只有：不知道！",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "可是這卻沒有阻止兩人見到彼此時有辦法不理會以及不朝彼此走去的悸動。若不知兩人一見面就會吵架，都會先調侃他們是否被對方搞得小鹿亂撞、一見鐘情，所以才會吵這種小學生等級的架。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Gary學長看Chester準備走上樓梯，也一如既往邊走邊低頭滑著手機，於是快步朝著他走去、堵住他要往上走的路。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "左擋右擋，擋到Chester不耐煩的抬頭看向阻擋他的人，發現是Gary學長後語帶怒氣的問著：「你有什麼事嗎？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "感受到Chester怒氣的當下，Gary學長反而沒有生氣，而是往下一階用手勾起Chester的下巴，上半身朝他前傾，彎起嘴角的回應：「走路就好好走，看前面不要低頭滑手機，否則錯過什麼你都不知道。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Gary學長說完後拍拍Chester的肩膀後隨即哼著歌朝著便利商店走去，徒留一臉莫名其妙看著Gary學長走遠的背影，「他吃錯藥了吧？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "雖然嘴上這樣說，但Chester嘴角卻也彎了起來，接著低頭繼續邊玩著手機邊走上天橋，走到一半突然想到了什麼，拿出隨身攜帶的相機轉身朝著Gary學長那方向拍了幾張照片。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "拍完後把照片傳進手機裡，接著點開通訊軟體把照片傳給自己的好兄弟：『他今天難得沒有跟我吵架，看來我可以進一步追求他了。』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這一次的相遇，讓兩人之間生鏽已久的齒輪又開始了轉動。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "selfie",
+      "title": "Selfie",
+      "chapterNumber": 3,
+      "chapterType": "",
+      "originalScript": "和浪漫同框",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "－",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "趁著長假期間O少年背著簡單行李來到了Y市進行獨旅，他拿著相機隨意拍照，想要為這次的獨旅留下些紀念。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "他來到當地最有名的鐵路橋，聽說若能自拍到自己與經過的火車的話，就有機會遇到生命中的那個人，這也是O少年選擇來這旅行的其中一個原因。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「太美了吧？」\nO少年在還沒看到鐵路橋前都十分緊張的握緊背包背帶，一步一步緩步的走著，直到看到鐵路橋本尊的瞬間緊張的情緒也隨之消弭，取而代之的是興奮的情緒。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "O少年開心的拿著相機東拍拍西拍拍等待著火車經過，卻沒有發現遠處有名青年安靜地朝著他走來。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這時，從遠處傳來火車刺破空氣那快速行駛的聲響，「哇！快點快點！」 ，O少年急忙拿出手機喬好角度，試圖把自己與火車拍進同一個視窗裡。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "火車離開鐵路橋時O少年才捨得檢查剛剛拍的照片，翻的時候從喜悅的心情漸漸轉變成嫌棄，「嘖，好醜喔……。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我幫你拍吧？」在O少年洩恨式的滑著手機時，一個略為低沉的嗓音與手同時出現在O少年身邊，並且出示等等還有一班火車會經過的時刻表，以示來者友善。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "O少年原本還帶點警惕，但看到對方釋出善意，於是遞出自己的手機，並笑著拜託對方：「好啊，我叫O。那麻煩你一下，謝謝！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我叫W，火車快來了你趕緊站好姿勢，」W青年聽到火車行駛的聲音，趕緊讓O少年站好，而自己則站在最佳拍照位置，「一二三、好了你看看照片吧？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "O少年站在W青年旁邊看著手機剛剛拍的照片，看到W青年把自己拍的很好看，於是開心的向他表示謝意。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "W青年笑著回應並準備把手機遞還給O少年，但卻沒有鬆手，這舉動引來O少年疑惑的眼神，「……你剛剛是不是有拍我？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "聽到對方的問題，O少年急忙解釋，「有，但是我會刪掉，我可以給你檢查！真的！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不理會O少年的解釋，W青年一把抓走手機，攬著O少年的肩，自然的與他自拍合照，「不用。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這時氣氛略為曖昧，O少年不知該怎麼回應，看著W青年放下手機後，小聲地開口：「呃……不好意思我的手機……」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "W青年盯著O少年一陣子，低下頭在他手機裡輸入自己的Line，之後笑著遞還手機給O少年，並拍拍他的頭說著：「加你了，再傳給我。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "完全不等O少年回應，W青年留了個背影就離開，只留下看著手機裡的合照害羞的O少年。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這次少年的獨旅，與浪漫相遇也與其同框，並把這回憶烙印在腦海中，至於O少年有沒有傳照片給W青年，只有他們兩個知道了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "catch_my_heart",
+      "title": "Catch My Heart",
+      "chapterNumber": 4,
+      "chapterType": "",
+      "originalScript": "接穩練習",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "－",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "F和P從小就是住在隔壁的鄰居，兩人的父母是多年摯交連帶兩個小孩也從小玩在一起是彼此的玩伴與朋友。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "兩人從一出生就形影不離，從吃飯的習慣、穿衣風格、喜歡的事情近乎一樣，時常讓家人們調侃兩人是異姓雙胞胎，習慣怎麼那麼相似。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "每次調侃都會引來兩個小孩的抗議，隨著兩人年紀增長這玩笑也沒有隨之減少，不過在P對這件事情反而很在意，卻沒有表現出來，只有私下接觸不同的資料去查看對於這種情緒是因為什麼而觸發。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "之後在一個影片裡，P總算知道這個情緒是什麼，是喜歡。但P並沒有表現出來反而藏得更深，讓他表面上仍然是成天和F形影不離的鄰居小孩，但處處卻偷偷的照顧和愛護著F，在心中祈求兩人這關係永遠不要改變。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "但這個願望在一次沒藏好的習慣，被P的家人發現了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為F從小有嚴重過敏家裡不讓養寵物，不過P家有養小型犬，所以只要F想要跟狗玩的話，P都會在家門口強制F先吃過敏藥跟戴口罩才能去P家玩狗。玩完要回家前還會被強制推進浴室洗完澡換完衣服才能回家。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "至於被換下來的衣服，P都會在家裡洗好並真空壓縮包好還給F，不過F不知道的是，P在幫他洗衣服時都會抓著他衣服發一下呆才放進洗衣機洗，而這習慣在一次被P媽媽發現了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「小P發什麼呆呢？F才剛回家就想人家啦，這麼愛他啊？」\n「沒、沒有！才沒有！媽媽不要亂說！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "P慌張的把衣服全部塞進洗衣機裡，連忙逃進家門，後面還跟著笑到不行的父母，以及說出一句對於大人來說是輕描淡寫但對P來說是重如泰山的話：「你喜歡F我們早就知道了，你們最後真的在一起的話我們大人會好好保護你們的，放心的追吧。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這讓原本要關門自閉的P，低頭安靜的靠近父母並左一個右一個抱緊兩人並低聲啜泣道謝著，「謝謝媽媽謝謝爸爸……。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "隨著時間流逝，兩人到了大學也還在同個學校只是不同科系，兩人的朋友圈也隨之擴大，這讓兩人之間的關係悄悄的改變。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "P因為已經知道自己的心意就大方的照顧著常常少根筋的F 但若自己有事情時就傳個訊息讓他自己回家。一次兩次F覺得沒什麼，但越來越多次，直到F察覺到異樣時已經是兩人除了通訊軟體的聊天以及父母間的傳話外，很久很久沒有看到P了，這讓F瞬間覺得空虛感，也不知道該怎麼辦。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "直到老爸們的公司有舉辦親子運動會，有一項是飛盤比賽，老爸們都有參賽，於是F為了增加兩人見面的時間於是擅自幫兩人報名並假日把宅在家的P抓出門到河濱公園練習。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "但F的運動細胞沒有像P那麼好，所以當P被拉出門後，變成無情的拋接飛盤機器，一直在幫F撿拋歪的飛盤以及低空拋過去讓他接，直到天已經漸漸暗了下去，P無奈的朝著已經累到不行的F喊著：「來嘍，這次真的要接穩嘍！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「蛤？」，F聽到P的話瞬間當機，瞪大眼睛看著遠處的P，想著他是在跟自己告白嗎？自己多年的單向暗戀是不是暢通了？",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "已經累到不想思考的F，決定讓身體掌控大腦，朝著P飛奔過去，並在距離一步的距離停下。兩人的距離近到P都能感受到F喘息的熱氣，讓他不禁吞了一大口口水。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "此刻，兩人都盯著彼此，完全不知道下一刻會發生什麼，直到F打破這個尷尬局面。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你剛剛的意思是這樣嗎？」，F伸出食指和中指，輕觸自己雙唇後，再將沾染自己溫度的手指碰上P的唇。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這瞬間，兩人週遭的時間彷彿被放慢速度，而彼此的心意彷彿隨著手指，傳遞給彼此。P瞪大雙眼，一眨一眨看著本因不會這種行為的F居然會對自己做出這種撥動心弦的事情。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "『難道……F也喜歡我？』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這個問題以及這個練習，最後有沒有接穩或是接吻，只有兩人才知道了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cup_full",
+      "title": "你的杯子是否已滿溢？",
+      "chapterNumber": 5,
+      "chapterType": "",
+      "originalScript": "心碎了一地",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，請勿上升到演員本人。\n根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "－\n身為攝影師的Christopher，在一次拍攝認識了F 青年和Y青年，三人在拍攝空檔閒聊發現彼此都喜歡到處遊玩，於是就決定工作後就約了都有空檔的時間開車到處遊玩。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "有了第一次就會有第二第三次相約出去遊玩，在遊玩時Christopher運用自己的鏡頭說故事，幫F 青年和Y青年拍了很多不同的照片，讓不同品牌方看到他們兩個的獨特性，因此三人於公於私都是很好的搭檔。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不過不知從何開始，不同的情愫在三人心中悄悄地從他們心底深處萌芽。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christopher開始對於F的照片用的心比較多，而且多次主動接下有關F的拍攝計劃，有一次被工作室同事虧是不是喜歡上F了？這讓原本在拿刷子刷著記憶卡槽的Christopher差點拿不穩相機，連忙否認這個說法。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "從那之後，Christopher開始審視自己對F的感覺到底是什麼，直到一次幫F和一位女演員拍攝劇照時心底酸酸的，有微微嫉妒的感覺，這時Christopher總算認知到自己其實是喜歡F的。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "既然已經知道自己心意，Christopher決定在下一次出遊時勇敢的踏出一步和F表白。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在那之後過沒多久，三人在群組裡聊著聊著，突然一頭熱決定馬上開夜車衝上阿里山去看日出順便幫Y一組業配照，而F則是想要為了因新代言而換的新髮型給它拍個照做個紀念。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "拍完日出也拍完兩人想要拍的照片後，三人就驅車前往民宿休息，各自休息過後，Yi伸著懶腰走出房門，看到Christopher站在中島旁往屋外發呆，隨著他的視線發現他在看著F，這瞬間Y覺得舌根略為苦澀，決定故作輕鬆的嚇一嚇Christopher。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Y略施點力拍了下Christopher的肩膀，「在幹嘛？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christopher緊張的先是看著屋外的F有沒有聽到，之後急忙拉著Y蹲下來，還一直讓他不要講話。看著Christopher如此緊張的模樣，Y笑著問：「你在幹嘛？幹嘛那麼緊張？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christopher看著帶著一貫溫柔笑容的Y，思考一陣後，開口請好友幫自己此生最大的忙，他握緊口袋中準備好的情書，輕聲地問著：「可不可以幫我一個忙？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看著難得猶豫的Christopher，Y毫不猶豫的答應了下來，不過看到他手裡的情書讓Y原本帶著溫暖的笑容僵在那個角度無法動彈。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「幫我把這個給Fumi。」\n聽到Christopher的請求，已經僵硬不少的Y猶豫地看著F剛好背對自己的背影。看著Y猶豫，Christopher連忙抓著他袖子露出他那不輸模特兒水汪汪的大眼看著Y，「如果我是你，我一定會去，拜託。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看來是不得不幫了，Y看著誠懇看著自己的Christopher，略為苦澀地笑著拍拍Chris的肩，「……好，我幫。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Y推開門時，看著F看風景的背影面露複雜的表情，朝著F走去途中還反覆拿出被自己放在口袋裡Christopher的情書看著。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "最後Y再緩慢也走到了F的身後，他輕聲地呼喚著F，而F聽到Y的呼喚笑著轉身看著他，「怎麼啦？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「嗯……你在幹嘛？」\n「喔，我看著風景想著還有什麼可以玩什麼可以拍，甚至在想我們下次出去玩的是什麼時候？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這時在屋內的Christopher焦急的看著屋外兩人的互動，急迫的想要知道兩人的對話內容，卻不知道這時的Y內心複雜到像打結的毛線一樣，他看著F看向自己真誠開心的眼神，Y真不知道該怎麼開口才能不影響三人的關係。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「呃……嗯……我有東西要給你。」\n「喔？什麼啊？」\nY遞出Christopher的情書給F，與此同時Christopher在屋內看到情書被遞出時緊張的吞了一大口口水。但F以為是Y給的情書，激動得撲了上去，而在屋內目睹一切的Christopher驚愕到嘴都張大。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「太好了！我一直希望我們可以有進一步的發展！」，F緊抱著Y開心的笑著，但Y被這突如其來的擁抱亂了陣腳，他急忙掙脫F的懷抱並急忙解釋：「不是……這情書不是我給你的……。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "但F並沒有打算聽Y說話，他認真的看了眼Y的表情，又再次緊抱著他，「我喜歡你很久了，我們可以在一起嗎？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "被F擁抱的此刻Y的心情極為複雜，複雜到呼吸都變得凌亂，接著還微轉身看向屋內的Christopher，也看到他泫然而泣的表情。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Y被擁抱時想著自己長久以來的單向箭頭居然變成雙向箭頭是很開心的，但看到Christopher的表情卻帶有點愧疚感，可是不愧對自己的心，決定回應F的感情。於是Y微偏著頭看向屋內的Christopher帶著複雜的表情用唇語對著Christopher：『I’m sorry……』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "接著決定回應與面對自己本來也喜歡F的心，用力的抱緊正抱著自己的F，但屋內的Christopher卻因這畫面過度的美好，以及為了自己無疾而終的告白默默地落著淚。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "與此同時，Y手中的情書隨著擁抱安靜的掉落在有著裂痕的地板上，安靜的結束這單向的愛戀。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cup_full_already",
+      "title": "我們的杯子已滿溢",
+      "chapterNumber": 6,
+      "chapterType": "",
+      "originalScript": "心碎了一地",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，請勿上升到演員本人。\n根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在那次出遊，F和Y意外變成雙箭頭後，沒有馬上在一起反而仍然是好友關係，這讓Christopher十分的疑惑。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在一次Y和Christopher合作一項案子，拍攝後Christopher關心好友們的情感狀況時卻聽到Y溫溫的表示那天他拒絕了F在一起的提議，原因是Y認為感情不能因為一時衝動而答應，應該放慢腳步去相處和更進一步了解彼此的喜歡厭惡才有機會成就一段新關係。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「沒想到你這麼的、慢？不像你外表看起來直覺派。」\n「你很失禮欸哈哈哈哈，感情這種事情真的要慢慢來，我不能因為F也喜歡我就胡亂答應，我怕他是因為我們太常相處，對我有依賴心態才產生的錯覺。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christopher聽到Y用今天天氣很好的口吻描述他與F之間的關係，無奈的笑了出來，拿起咖啡杯喝了口咖啡用自嘲的口吻回著Y的話，「看樣子我應該也是對Y有依賴心態所以才喜歡他了……」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「不，你是真的喜歡他，你是透過鏡頭看到他的本質才喜歡他，而我是因為你的鏡頭下的他，才喜歡他，但我的喜歡和你的喜歡不同。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Y拿起Christopher放在桌上的相機，用鏡頭對著他為他拍了張照片並遞還給Christopher，看到了照片Christopher馬上知道為何Y會這麼說。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……唉我們三人裡面你話最少但看得最清楚，說不過你……總之還是朋友吧？我們。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christopher拿起咖啡杯靠近Y的茶杯，等待他的回應。而Y抬眸看著略為緊張的Christopher，無奈的笑了出來，抬手舉起自己的茶杯，輕敲Christopher的咖啡杯，「當然還是，膽小鬼英雄。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……就說了不要說我是膽小狗英雄了！」\n「好好好，我跟F約了要出去買他拍戲用的私服，先走了。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Christopher揮揮手讓Y快走，自己則接起電話就再也沒回應，而Y則識相的起身離開前往會合地點。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「這裏！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "F一如既往地的精力充沛，當他看到Y進入自己視線時，他開心地揮著手，迎接Y的到來。Y看到精力充沛的F，無奈的塞杯咖啡進F想要牽手的那隻手裡，「拍了夜戲也沒休息就直接過來，你不累我都看了累了，喝點咖啡醒醒神，不要等等陪你逛到一半我要扛你回家。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「才不會咧，走吧走吧，這次導演讓我自己選角色的衣服，選完要拍給服裝組的姐姐們。」\n「自己選就可以了幹嘛拉著我……」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "F不管Y的抱怨直接拉著他走進第一間預定要參考的店家，一間又一間試著衣服，也讓Y幫忙拍照傳給服裝組的人，直到最後一間最後一張照片，F湊近Y看著照片，趁他不注意偷親一口，接著抓著前面幾件服裝組同意的衣服拿去結帳，獨留被突襲成功呆愣在原地的Y。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「幹嘛搞偷襲……真是的……。」Y看著F開心的背影，寵溺的笑了出來。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "雖然Y和F並沒有正式在一起，但兩人的關係也隨著時間漸漸的加深，或許總有一天會真的在一起也說不一定。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "此時此刻，兩人心中那高腳杯，其實早因彼此而滿溢。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hide_in_your_heart",
+      "title": "躲進你心底",
+      "chapterNumber": 7,
+      "chapterType": "",
+      "originalScript": "無人知曉的幸福",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，請勿上升到演員本人。\n根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "熱舞社的大家，趁著社團裡的學長姐們參加完HHI*想耍廢的空檔，整個社團包車前往花蓮犒賞辛苦比賽的大家。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「欸欸！趁房間大家都還沒有弄亂或者出現無法言喻的東西出現前來玩躲貓貓吧？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "社長看著軟爛在客廳行李到處亂丟的社員們，為了不讓他們繼續寄生在客廳，趁著外面太陽正好，決定來玩大地遊戲讓大家懂一動，不過這個提議讓只想當廢物的大學生們哀嚎遍野，但社長的命令只能認命配合，不過十分鐘後玩得很瘋的人也是他們。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "最新一輪的躲貓貓，L青年因為太高大導致在找躲藏位置時被很多人給擠了出去，甚至還因為跑太快，還重重的摔了一跤，搞得他的屁股痛得要死，還以為自己要做Power Move*。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "直到他找到一間房間，他看了下沒有人躲也沒人喊要自己出去，就朝著房間裡最好藏的沙發後面奔去，卻沒想到……。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "G青年和P青年因為是社內年紀較小的兩人，卻也是舞蹈實力堅強的兩人，時常會組隊去比賽，斬獲大大小小的獎盃回來，使他們社團在各大學間十分有名，也很多外校人士前來邀請合作，不過稱霸大學街舞圈的兩人現在卻為了不被學姊抓到被懲罰正到處找空位躲藏。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "G青年打前鋒找尋可以躲藏的地方，而P青年則慢吞吞的跟在他身後，找著找著G青年也有點火，又看著慢吞吞跟在自己身後的P青年，好氣又好笑的決定加快找尋躲藏位置，於是抓著他的手加快他的步伐，「不要慢吞吞的，我可不想和你一起被塞冰塊。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "P青年聽到G青年的抱怨笑了下，低頭看著被抓住的手，眼底揚起笑意。最後G青年找到一間空房間，也發現有張沙發適合躲藏，於是拉著P青年一起躲在沙發後面，看著P少年因奔跑而弄亂了瀏海，貼心的幫他整理一下，這自然舉動平時也沒少，畢竟組合久了都會互相幫忙。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "其實兩個人在一開始組隊比賽時感情沒有特別的好，因為兩人都認為自己可以單打獨鬥不需要配合別人，但久而久之兩人越來越有默契，每次在Battle時展現兩人絕佳默契以及深厚實力的Routine*，而且還特別合音樂，這樣久而久之兩人對彼此也有一定的情感依賴，也時常讓其他人開玩笑是不是練舞練到對方心裡去了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不過兩人也沒有刻意的去回應這些玩笑，反而是繼續在自己的世界裡當個舞癡天天練舞。至於到底在自己心底有沒有對彼此有心意就不得而知。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「靠，你們兩個怎麼已經在這了？」L青年正準備踩上椅背要跳進沙發後面躲著，發現G青年和P青年小倆口已經躲在這邊。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你走開啦！不要來跟我們擠！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "G青年不耐煩的試圖把L青年推離沙發，讓他再找別的地方，但就這樣放棄就不是L青年了，而且他還看到絕妙組合，都在海景第一排了能離開嗎？於是L青年不管兩人抗議，直接硬生生擠在兩人中間，而屁股好像還感受到兩人的手原本握著但被自己的屁股給擠開了。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "『哼哼，再不承認是情侶啊？』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "被L青年突襲，使G青年和P青年原本緊密的距離一下子硬生生的被隔開來，這讓G青年臉冷了下來，周身氣壓瞬間降了好幾度，這讓L青年根本不敢轉頭，只能把注意力放在門外關注當鬼的學弟有沒有找進來。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "而對於被拆開也感到一點可惜的P青年略為可惜的身體後仰的看著臉很臭的G青年，思考了一下就默默地把手移向離他更近的位置。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "G青年想著這段時間兩人練習時明明碰都碰過了、衣服和水都共用共喝了不少，自己為何就是沒有鼓起勇氣告白？剛剛本來就要趁著隱密的角落要進一步動作，結果被L青年這個白目給打斷。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "『要是等等不整死他我就不姓高！』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "G青年忿恨的想著，同時也決定主動出擊，於是憑著記憶朝著P青年的方向找著他的手，卻沒想到自己跟伸出手就碰上他的，這讓G青年驚訝的抬頭後仰看著P青年，迎上他溫暖又堅定的笑容。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "G青年接受到P青年的訊息，露出沒轍的溫暖笑容，搖搖頭並牽起P青年的手並十指交扣，用行動來表達自己的意思。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "與此同時被夾在中間的L青年其實都在關注身後的狀況，感受到兩人的距離越來越近，他把自己縮得更小並會心一笑。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "『呵呵，臭情侶還不是需要我來推波助瀾。』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看來地下情差不多可以變成檯面上了，對吧各位。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "❗️專有名詞解釋\nHHI：世界街舞錦標賽\nPower Move：跳Breaking時的大地板動作\nRoutine：排舞",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "one_clap",
+      "title": "一個巴掌拍不響",
+      "chapterNumber": 8,
+      "chapterType": "",
+      "originalScript": "毛毛蟲總是作梗",
+      "ageRating": "一般",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一切OOC皆在於我，請勿上升到演員本人。\n根據節目裡的短劇劇本做的衍生文，請輕拍。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "K青年因為工作所以在台北會待一段時間，而身為摯友的O青年在他工作空檔時抓著K青年到處跑，觀光客會去的、在地人會去的，什麼景點都帶K青年去玩。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "而今天剛好O青年有跟在健身房認識的R青年約了一起爬山，同行的還有一臉厭世的K青年。他原本想要在宿舍睡好睡滿，卻沒想到被O青年一大早打著天氣好跟沒有爬過台灣的山就把他挖了起來。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「O解釋一下，今天到底為什麼要爬山？然後，這位是？」\n「喔喔！這是我在健身房認識的R，有聊天聊到最近有個地方是新手友善的山路，又剛好你還沒爬過台灣的山，就揪了這一局啊！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "K青年看著摯友天然無辜的燦爛笑容，也只能無奈的答應並緩慢的啟程跟上兩個運動狂熱份子。一路上O青年一下子跑很快的在R青年旁邊嘰嘰喳喳的聊著，之後又放慢步調陪著K青年聊著天以及聽他抱怨這虐待人的行程。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "R青年看著O青年和K青年聊得很開心實在不想打擾兩人，也不想讓O青年那麼累的往返跑，於是主動提出幫忙K青年扛他的背包先快步走到目的地，這就充當負重訓練，讓O青年和K青年好好享受台灣獨有的大自然生態。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "既然有人自告奮勇幫忙扛背包，K青年何樂而不為，邊道謝邊把背包遞給R少年，而自己則兩袖清風的邊和O青年聊天邊往上爬。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "兩人從工作聊到生活，還聊著感情生活，這讓K青年一臉八卦的看著O青年，「欸你該不會對R有意思吧？每一次你對一個人有好感都會約我一起出去幫你鑑定，啊這個，一到十你自己給多少？」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "O青年聽到時先露出嫌棄K青年口無遮攔個性的表情，之後無奈的搔著臉，「可能8吧？還在觀察他對我的保護慾如何。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "K青年聽到後深知摯友因為一身完美肌肉線條，常常帶給人過度陽剛的個性，完全沒有想到他其實是渴望他人保護的人。與此同時K青年剛好看到前面有一片草叢，而摯友又剛好對一些昆蟲厭惡與過敏。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "K青年腦中浮現一個計畫，而現在兩人的位置正好已經可以看到R青年的身影，於是先默默強迫摯友吃下過敏藥，接著默默地把他擠進草叢讓幾隻毛毛蟲掉到他衣服上。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「幹！你幹嘛啦！噁爛的毛毛蟲都跑到我身上了啦！」\n「欸你不要動啦我來打掉他們！」\n「嗷！會痛啦！白癡喔！輕一點啦！」\n「這樣拍比較會容易掉啦！站好啦！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "K青年和O青年兩人就這樣上演你追我打的戲碼，而這也讓遠處的R青年看到，也成功地讓他誤會的朝著兩人跑了過來，不過如果不要動手和說出那個詞的話，K青年就會覺得這個是最佳加分的機會。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「不要碰我的小寶貝！」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "R青年怒氣沖沖的給K青年一拳右鉤拳讓他隨之倒地，這反而沒讓K青年生氣反而帶來無奈的話：「O身上還有幾隻毛毛蟲，快幫他用掉，否則他就過敏了。」",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "R青年聽到K青年的話急忙幫忙O青年，而這舉動看在K青年眼裡十分滿意，『看來短時間內不用再幫O鑑定男友候選人了。』",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "K青年笑著拿起R青年早就幫大家準備好的茶水在一旁看著未來式情侶的互動。",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "人類的心情時有時像晴天，有時像雨天。\n今天的你，是像晴天還是像雨天呢？",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📅 收看資訊：",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "目前平台已可免費收看",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📺台灣播映平台：LINE TV、愛奇藝、MyVideo",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "📢最新消息還請追蹤官方IG",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "#戀愛Casting",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%88%80%E6%84%9Bcasting/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#BL實境秀",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/bl%E5%AF%A6%E5%A2%83%E7%A7%80/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#心動預警",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E5%BF%83%E5%8B%95%E9%A0%90%E8%AD%A6/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#最甜的戀愛即將開播",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E6%9C%80%E7%94%9C%E7%9A%84%E6%88%80%E6%84%9B%E5%8D%B3%E5%B0%87%E9%96%8B%E6%92%AD/"
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": null
+            },
+            {
+              "text": "#真心實感嗑CP",
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false,
+              "href": "https://www.instagram.com/explore/tags/%E7%9C%9F%E5%BF%83%E5%AF%A6%E6%84%9F%E5%97%91cp/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
