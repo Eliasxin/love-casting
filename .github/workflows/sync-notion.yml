@@ -1,0 +1,45 @@
+name: Sync Notion Chapters
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: notion-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Sync published Love Casting chapters
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          NOTION_WORK_PAGE_ID: ${{ secrets.NOTION_WORK_PAGE_ID }}
+        run: python scripts/sync_notion.py
+
+      - name: Commit chapter updates
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/chapters.json assets/notion/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Sync public Love Casting chapters from Notion'
+            git push
+          else
+            echo 'No changes to commit.'
+          fi
