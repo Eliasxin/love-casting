@@ -10,23 +10,24 @@
   <meta property="og:description" content="每段心動，都能創造屬於自己的劇本。" />
   <title>戀愛 Casting：創造出屬於你的劇本</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-  <link rel="stylesheet" href="./styles.css" />
-  <script src="./app.js" defer></script>
+  <link rel="stylesheet" href="./styles.css?v=castteam20261101b" />
+  <script src="./app.js?v=wavefix20261023" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">跳至主要內容</a>
   <header class="site-header">
     <a class="brand" href="#/" aria-label="回到網站首頁"><span class="brand-dot">✳</span> SAKURAI_TK <span class="brand-divider">/</span> LOVE CASTING</a>
-    <nav aria-label="網站導覽"><a href="#/">首頁</a><a href="#stories">故事目錄</a><a href="#about">關於這裡</a></nav>
+    <nav aria-label="網站導覽"><a href="#/">首頁</a><a href="#stories">故事目錄</a><a href="#about">節目介紹</a></nav>
   </header>
   <main id="main" tabindex="-1">
     <div id="home-view">
       <section class="hero" aria-labelledby="hero-title">
         <!-- 影片請下載自 Pexels 並存成 assets/ocean-waves.mp4；缺少影片時使用原本的 CSS 海浪備援。 -->
-        <video id="hero-video" class="hero-video" muted loop playsinline preload="metadata" aria-hidden="true">
+        <video id="hero-video" class="hero-video" autoplay muted loop playsinline webkit-playsinline preload="auto" aria-hidden="true">
           <source src="./assets/ocean-waves.mp4" type="video/mp4" />
         </video>
         <div class="hero-video-scrim" aria-hidden="true"></div>
+        <button id="video-play-button" class="video-play-button" type="button" hidden aria-label="播放海浪背景影片">▶ 播放海浪</button>
         <div class="sky-glow" aria-hidden="true"></div>
         <div class="hero-content">
           <p class="eyebrow light">A LOVE CASTING STORY COLLECTION <span class="sparkle">✦</span></p>
@@ -45,7 +46,53 @@
         <div class="story-grid" id="story-grid" aria-live="polite"><p class="loading">正在讀取故事……</p></div>
         <p id="story-count" class="count-note"></p>
       </section>
-      <section class="about-section" id="about" aria-labelledby="about-title"><div class="about-mark" aria-hidden="true">✳</div><div><p class="eyebrow">02 / ABOUT THE PROJECT</p><h2 id="about-title">不是唯一的劇本，<br />卻是此刻的心動。</h2></div><div class="about-description"><p>這裡收錄以綜藝節目《戀愛 Casting》為靈感延伸的文字創作。故事由創作者重新想像，與原節目製作單位無關。</p><p>你可以按原始劇本瀏覽，也可以從任何一篇開始閱讀。尚未完成的故事，會先留下期待的位置。</p></div></section>
+      <section class="lc-show-section" id="about" aria-labelledby="about-title">
+        <div class="lc-show-inner">
+          <div class="section-topline"><span>02 / THE ORIGINAL SHOW</span><span>LOVE CASTING · 2025</span></div>
+          <div class="lc-show-heading">
+            <div>
+              <p class="eyebrow">BEHIND THE STORY · 節目檔案</p>
+              <h2 id="about-title">先認識這個夏天，<br>再走進我們的故事。</h2>
+            </div>
+            <p>《戀愛 Casting》（Love Casting）是台灣首個 BL 演員選角實境節目。八位男孩走進七天六夜的旅程，在表演任務、相處與選擇之間，尋找站上 BL 作品舞台的機會。</p>
+          </div>
+
+          <div class="lc-show-facts" aria-label="節目基本資訊">
+            <div><span>PREMIERE · 首播</span><strong>2025.03.14</strong></div>
+            <div><span>EPISODES · 集數</span><strong>12 集</strong></div>
+            <div><span>JOURNEY · 節目旅程</span><strong>7 天 6 夜</strong></div>
+          </div>
+
+          <div class="lc-show-broadcast">
+            <p><strong>播出平台</strong> LINE TV、愛奇藝國際版、MyVideo、TrueVisions NOW</p>
+            <p><strong>節目片尾曲</strong> 高胥崴等八位男孩參與演唱〈瘋狂的夏天 Summers’ Casting〉</p>
+          </div>
+
+          <div class="lc-show-subheading"><p class="eyebrow">CREATIVE TEAM & OBSERVERS</p><h3>主創團隊與姨母團</h3></div>
+          <div class="lc-show-crew">
+            <div class="lc-show-director"><span>DIRECTOR · 導演</span><strong>吳孟糖</strong><p>台灣影視導演，曾執導 2023 年 BL 影集《奇蹟》（Kiseki: Dear to Me），並擔任《戀愛 Casting》導演，以影像記錄八位男孩的演出任務與七天六夜的相處過程。</p></div>
+            <div class="lc-show-production"><span>PRODUCTION · 製作</span><div class="lc-show-production-label">製作公司</div><strong>趣放娛樂</strong><div class="lc-show-production-label">出品公司</div><strong>酷粉娛樂</strong></div>
+            <div class="lc-show-observers"><span>OBSERVERS · 姨母團</span><div class="lc-show-people"><span>阿本</span><span>夏于喬</span><span>初孟軒</span><span>Poom</span><span>Niki</span></div></div>
+          </div>
+
+          <div class="lc-show-subheading lc-show-boys-title"><p class="eyebrow">THE EIGHT BOYS</p><h3>八位男孩</h3></div>
+          <div class="lc-show-boys" aria-label="八位節目參與者">
+            <div class="lc-show-boy"><span class="lc-show-number">01</span><strong>Yi Gao</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">02</span><strong>傅俊傑</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">03</span><strong>廖彥龍</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">04</span><strong>Fumi</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">05</span><strong>高胥崴</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">06</span><strong>Chris</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">07</span><strong>陳建宇</strong></div>
+            <div class="lc-show-boy"><span class="lc-show-number">08</span><strong>Robert</strong></div>
+          </div>
+
+          <div class="lc-show-sources">
+            <p><strong>節目資訊與官方連結</strong>　<a href="https://www.linetv.tw/drama/17308/behind/20241" target="_blank" rel="noopener noreferrer">LINE TV 節目頁 ↗</a>　<a href="https://www.myvideo.net.tw/details/3/30009" target="_blank" rel="noopener noreferrer">MyVideo 節目頁 ↗</a>　<a href="https://music-tw.line.me/album/7640106" target="_blank" rel="noopener noreferrer">〈瘋狂的夏天〉音樂資訊 ↗</a></p>
+            <p>本站為非官方二次創作網站。以上介紹的是節目真實參與者；本站的小說角色、劇情與人物關係為創作者的衍生詮釋，並不代表本人或製作單位立場。</p>
+          </div>
+        </div>
+      </section>
     </div>
     <div id="reader-view" hidden></div>
   </main>
